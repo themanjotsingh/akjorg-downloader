@@ -13,7 +13,7 @@ Download kirtan from [AKJ.org](https://www.akj.org/keertan.php)
 
 4. When asked, paste the url.
 
-4. When asked, enter a name for the sub-directory that you would like to create to put this playlist's files in.
+4. When asked, locate the directory that you would like to create to put this playlist's files in.
 
 5. When asked, select which tracks you would like to download. You can also select all or click on a track to select/deselect it.
 
