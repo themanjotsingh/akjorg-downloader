@@ -7,7 +7,7 @@ Download kirtan from [AKJ.org](https://www.akj.org/keertan.php)
 
 1. Go to [AKJ.org's Kirtan Recordings](https://www.akj.org/keertan.php) and search by Country, Location, Year, Month and/or Kirtani as needed. Hit Search. Copy the URL from the URL address bar.
 
-2. Get the downloader [click here](https://github.com/themanjotsingh/akjorg-downloader/releases/tag/1.0). Ignore warnings from your web browser or Windows Defender. It shows this because of the exe not being signed as well as not being a commonly downloaded file (generally speaking).
+2. Get the downloader [click here](https://github.com/themanjotsingh/akjorg-downloader/releases/tag/1.0). Ignore warnings from your web browser or Windows Defender. Simply click on more info and then Run Anyways or Keep. It shows this because of the exe not being signed as well as not being a commonly downloaded file (generally speaking).
 
 3. Run `AKJorg Kirtan Downloader.exe`. Follow the on screen prompts.
 
