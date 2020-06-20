@@ -33,13 +33,6 @@ if "akj.org/keertan.php" not in akj_link:
         g.msgbox ("Too many bad attempts. Script will now close.")
         sys.exit()
               
-#    elif "akj.org/keertan.php" in akj_link:
-#        continue
-
-#elif "akj.org/keertan.php" in akj_link:
-#    continue
-
-
 
 
 
