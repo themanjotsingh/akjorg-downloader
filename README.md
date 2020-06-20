@@ -9,7 +9,7 @@ Download kirtan from [AKJ.org](https://www.akj.org/keertan.php)
 
 2. Get the downloader [click here](https://github.com/themanjotsingh/akjorg-downloader/releases/tag/1.0). Ignore warnings from your web browser or Windows Defender. It shows this because of the exe not being signed as well as not being a commonly downloaded file (generally speaking).
 
-3. Run `AKJorg Kirtan Downloader.py`. Follow the on screen prompts.
+3. Run `AKJorg Kirtan Downloader.exe`. Follow the on screen prompts.
 
 4. When asked, paste the url.
 
