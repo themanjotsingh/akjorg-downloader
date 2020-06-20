@@ -32,7 +32,6 @@ if "akj.org/keertan.php" not in akj_link:
     if "akj.org/keertan.php" not in akj_link:
         g.msgbox ("Too many bad attempts. Script will now close.")
         sys.exit()
-              
 
 
 
@@ -55,19 +54,18 @@ for link in soup.find_all('a', href=True):
     if ext in links_list:
         list_to_choose.append(links_list)    
 
-playlist_length = (len(chooser_chosen))
-
-if playlist_length > 1:
-    file_plur = "files"
-if playlist_length == 1:
-    file_plur = "file" 
 
 chooser_msg = "Please choose the tracks that you would like to download. Click on individual tracks to select/deselect."
 chooser_title = "Kirtan Downloader"
 chooser_choices = list_to_choose
 chooser_chosen = g.multchoicebox(chooser_msg, chooser_title, chooser_choices)
 
+playlist_length = (len(chooser_chosen))
 
+if playlist_length > 1:
+    file_plur = "files"
+if playlist_length == 1:
+    file_plur = "file" 
 
 
 print(" ")    
